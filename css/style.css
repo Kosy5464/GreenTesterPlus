@@ -444,9 +444,9 @@ textarea.input {
 \*----------------------------*/
 
 #header {
-  padding-top: 15px;
-  padding-bottom: 15px;
-  background-color: #15161D;
+  padding-top: 20px;
+  padding-bottom: 0px;
+  background-color: rgb(255, 255, 255);
 }
 
 .header-logo {
@@ -616,13 +616,13 @@ textarea.input {
 }
 
 /*=========================================================
-	03 -> Navigation
+	03 -> Navigation 라인 파란색
 ===========================================================*/
 
 #navigation {
   background: #FFF;
   border-bottom: 2px solid #E4E7ED;
-  border-top: 3px solid #D10024;
+  border-top: 2px solid rgb(255, 255, 255);
 }
 
 /*----------------------------*\
@@ -2002,12 +2002,12 @@ textarea.input {
 ===========================================================*/
 
 #footer {
-  background: #15161D;
-  color: #B9BABC;
+  background: rgb(255, 255, 255);
+  color: rgba(34, 34, 34, 0.068);
 }
 
 #bottom-footer {
-  background: #1E1F29;
+  background: rgb(255, 255, 255);
 }
 
 .footer {
